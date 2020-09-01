@@ -1,0 +1,9 @@
+.idea/
+target/
+build/
+.gradle/
+*.iml
+
+# say goodbye to maven
+pom.xml
+dependency-reduced-pom.xml

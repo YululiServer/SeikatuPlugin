@@ -1,0 +1,11 @@
+name: SeikatuPlugin
+main: xyz.acrylicstyle.seikatu.SeikatuPlugin
+version: "1.0"
+api-version: "1.15"
+depend:
+  - TomeitoLib
+commands:
+  menu:
+    description: "Opens menu"
+  test_:
+    description: ""
